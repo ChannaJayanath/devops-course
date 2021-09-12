@@ -1,0 +1,6 @@
+dn: uid=replication.user,ou=system,dc=ltacademy,dc=com
+objectClass: simpleSecurityObject
+objectclass: account
+uid: replication.user
+description: UserReplication
+userPassword: {SSHA}tVlbwfP9p959yIQYvgJCUoBUW2oIuZMW
